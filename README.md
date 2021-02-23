@@ -1,0 +1,2 @@
+# 04_Coding_Iterating_Automating
+functionnal programmation and Iteration process
